@@ -1,0 +1,143 @@
+C:\Users\Elev\AppData\Local\Temporary Projects\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\Elev\AppData\Local\Temporary Projects\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\Elev\AppData\Local\Temporary Projects\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\Elev\AppData\Local\Temporary Projects\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Elev\AppData\Local\Temporary Projects\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\Elev\AppData\Local\Temporary Projects\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+C:\Users\Elev\AppData\Local\Temporary Projects\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+C:\Users\Elev\AppData\Local\Temporary Projects\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form2.resources
+C:\Users\Elev\documents\visual studio 2010\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+C:\Users\Elev\documents\visual studio 2010\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+C:\Users\Elev\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+C:\Users\Elev\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+C:\Users\Elev\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\Elev\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\Elev\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\Elev\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form2.resources
+C:\Users\Elev\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form3.resources
+C:\Users\Elev\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form4.resources
+C:\Users\Elev\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Elev\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\Elev\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form5.resources
+C:\Users\Elev\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form6.resources
+C:\Users\Elev\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form7.resources
+F:\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+F:\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+F:\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+F:\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+F:\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+F:\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form2.resources
+F:\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form3.resources
+F:\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form4.resources
+F:\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form5.resources
+F:\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form6.resources
+F:\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form7.resources
+F:\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form8.resources
+F:\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+F:\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+F:\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+H:\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+H:\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+C:\Users\Elev\Desktop\Folder nou\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+C:\Users\Elev\Desktop\Folder nou\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+C:\Users\Elev\Desktop\Folder nou\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\Elev\Desktop\Folder nou\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\Elev\Desktop\Folder nou\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\Elev\Desktop\Folder nou\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\Elev\Desktop\Folder nou\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form2.resources
+C:\Users\Elev\Desktop\Folder nou\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form3.resources
+C:\Users\Elev\Desktop\Folder nou\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form4.resources
+C:\Users\Elev\Desktop\Folder nou\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form5.resources
+C:\Users\Elev\Desktop\Folder nou\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form6.resources
+C:\Users\Elev\Desktop\Folder nou\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form7.resources
+C:\Users\Elev\Desktop\Folder nou\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form8.resources
+C:\Users\Elev\Desktop\Folder nou\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Elev\Desktop\Folder nou\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+D:\Programare\Folder nou\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+D:\Programare\Folder nou\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+D:\Programare\Folder nou\WindowsFormsApplication1\bin\Debug\Rubiks.mdf
+D:\Programare\Folder nou\WindowsFormsApplication1\bin\Debug\Rubiks_log.ldf
+D:\Programare\Folder nou\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+D:\Programare\Folder nou\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+D:\Programare\Folder nou\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+D:\Programare\Folder nou\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+D:\Programare\Folder nou\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Creare_cont.resources
+D:\Programare\Folder nou\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+D:\Programare\Folder nou\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form2.resources
+D:\Programare\Folder nou\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form3.resources
+D:\Programare\Folder nou\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form4.resources
+D:\Programare\Folder nou\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form5.resources
+D:\Programare\Folder nou\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form6.resources
+D:\Programare\Folder nou\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form7.resources
+D:\Programare\Folder nou\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form8.resources
+D:\Programare\Folder nou\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Login.resources
+D:\Programare\Folder nou\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+D:\Programare\Folder nou\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Rezolva.resources
+D:\Programare\Folder nou\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Statistici.resources
+D:\Programare\Folder nou\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\Elev\Downloads\Folder-nou\Folder nou\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\Elev\Downloads\Folder-nou\Folder nou\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+C:\Users\Elev\Downloads\Folder-nou\Folder nou\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+C:\Users\Elev\Downloads\Folder-nou\Folder nou\WindowsFormsApplication1\bin\Debug\Rubiks.mdf
+C:\Users\Elev\Downloads\Folder-nou\Folder nou\WindowsFormsApplication1\bin\Debug\Rubiks_log.ldf
+C:\Users\Elev\Downloads\Folder-nou\Folder nou\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\Elev\Downloads\Folder-nou\Folder nou\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\Elev\Downloads\Folder-nou\Folder nou\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\Elev\Downloads\Folder-nou\Folder nou\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Creare_cont.resources
+C:\Users\Elev\Downloads\Folder-nou\Folder nou\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\Elev\Downloads\Folder-nou\Folder nou\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form2.resources
+C:\Users\Elev\Downloads\Folder-nou\Folder nou\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form3.resources
+C:\Users\Elev\Downloads\Folder-nou\Folder nou\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form4.resources
+C:\Users\Elev\Downloads\Folder-nou\Folder nou\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form5.resources
+C:\Users\Elev\Downloads\Folder-nou\Folder nou\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form6.resources
+C:\Users\Elev\Downloads\Folder-nou\Folder nou\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form7.resources
+C:\Users\Elev\Downloads\Folder-nou\Folder nou\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form8.resources
+C:\Users\Elev\Downloads\Folder-nou\Folder nou\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Login.resources
+C:\Users\Elev\Downloads\Folder-nou\Folder nou\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Elev\Downloads\Folder-nou\Folder nou\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Rezolva.resources
+C:\Users\Elev\Downloads\Folder-nou\Folder nou\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Statistici.resources
+C:\Users\Elev\Downloads\Folder-nou\Folder nou\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+D:\Folder-nou\Folder nou\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+D:\Folder-nou\Folder nou\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+D:\Folder-nou\Folder nou\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+D:\Folder-nou\Folder nou\WindowsFormsApplication1\bin\Debug\Rubiks.mdf
+D:\Folder-nou\Folder nou\WindowsFormsApplication1\bin\Debug\Rubiks_log.ldf
+D:\Folder-nou\Folder nou\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+D:\Folder-nou\Folder nou\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+D:\Folder-nou\Folder nou\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+D:\Folder-nou\Folder nou\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Creare_cont.resources
+D:\Folder-nou\Folder nou\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+D:\Folder-nou\Folder nou\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form2.resources
+D:\Folder-nou\Folder nou\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form3.resources
+D:\Folder-nou\Folder nou\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form4.resources
+D:\Folder-nou\Folder nou\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form5.resources
+D:\Folder-nou\Folder nou\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form6.resources
+D:\Folder-nou\Folder nou\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form7.resources
+D:\Folder-nou\Folder nou\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form8.resources
+D:\Folder-nou\Folder nou\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Login.resources
+D:\Folder-nou\Folder nou\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+D:\Folder-nou\Folder nou\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Rezolva.resources
+D:\Folder-nou\Folder nou\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Statistici.resources
+D:\Folder-nou\Folder nou\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+D:\Programare\Folder-nou\Folder nou\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+D:\Programare\Folder-nou\Folder nou\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+D:\Programare\Folder-nou\Folder nou\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+D:\Programare\Folder-nou\Folder nou\WindowsFormsApplication1\bin\Debug\Rubiks.mdf
+D:\Programare\Folder-nou\Folder nou\WindowsFormsApplication1\bin\Debug\Rubiks_log.ldf
+D:\Programare\Folder-nou\Folder nou\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+D:\Programare\Folder-nou\Folder nou\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+D:\Programare\Folder-nou\Folder nou\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+D:\Programare\Folder-nou\Folder nou\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Creare_cont.resources
+D:\Programare\Folder-nou\Folder nou\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+D:\Programare\Folder-nou\Folder nou\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form2.resources
+D:\Programare\Folder-nou\Folder nou\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form3.resources
+D:\Programare\Folder-nou\Folder nou\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form4.resources
+D:\Programare\Folder-nou\Folder nou\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form5.resources
+D:\Programare\Folder-nou\Folder nou\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form6.resources
+D:\Programare\Folder-nou\Folder nou\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form7.resources
+D:\Programare\Folder-nou\Folder nou\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form8.resources
+D:\Programare\Folder-nou\Folder nou\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Login.resources
+D:\Programare\Folder-nou\Folder nou\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+D:\Programare\Folder-nou\Folder nou\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Rezolva.resources
+D:\Programare\Folder-nou\Folder nou\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Statistici.resources
+D:\Programare\Folder-nou\Folder nou\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
